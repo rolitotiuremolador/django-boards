@@ -1,0 +1,6 @@
+{
+	"python.autoComplete.extraPaths": [
+		"./src"
+	],
+	"editor.tabSize": 2
+}
