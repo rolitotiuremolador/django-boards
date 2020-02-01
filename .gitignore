@@ -1,7 +1,7 @@
 __pycache__/
 *.py[cod]
 .env
-venv/
+rvenv/
 
 # exclude the SQLite database files
 *.sqlite3
